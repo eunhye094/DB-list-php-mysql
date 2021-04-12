@@ -24,3 +24,8 @@ th {
   background-color: #4C4FAF;
   color: white;
 }
+
+.boxart {
+	width: 80px;
+	border-radius: 15%;
+}
